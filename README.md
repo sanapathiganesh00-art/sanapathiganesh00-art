@@ -29,3 +29,8 @@ ganesh-sanapathi-72b04932b
 - PH - NO : 9573155645
 
 ⭐ Always Learning • Always Building
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanapathiganesh00-art&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanapathiganesh00-art&layout=compact&theme=tokyonight)
