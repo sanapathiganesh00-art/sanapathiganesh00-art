@@ -29,7 +29,6 @@ ganesh-sanapathi-72b04932b
 
 ⭐ Always Learning • Always Building
 ## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanapathiganesh00-art&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanapathiganesh00-art&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sanapathiganesh00-art&theme=github-dark)
