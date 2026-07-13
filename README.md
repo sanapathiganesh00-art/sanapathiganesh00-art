@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ganesh Sanapathi 👋
 
-<!--
-**sanapathiganesh00-art/sanapathiganesh00-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student @ GITAM University
 
-Here are some ideas to get you started:
+🚀 Founder @ Drakonex
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Full Stack Developer
+
+🤖 AI & Machine Learning Enthusiast
+
+🌱 Currently Learning
+- Java
+- Python
+- JavaScript
+- React
+- Node.js
+- AI & Machine Learning
+
+## 📌 Projects
+- 🚀 Drakonex
+- 🌐 Full Stack Web Applications
+- 🤖 AI Projects
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/https://lnkd.in/g24JkBEM
+- Email: sanapathiganesh00@gmail.com
+- PH - NO : 9573155645
+
+⭐ Always Learning • Always Building
