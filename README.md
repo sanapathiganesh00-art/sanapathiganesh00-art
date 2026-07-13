@@ -22,7 +22,9 @@
 - 🤖 AI Projects
 
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/https://lnkd.in/g24JkBEM
+- LinkedIn: www.linkedin.com/in/
+ganesh-sanapathi-72b04932b
+
 - Email: sanapathiganesh00@gmail.com
 - PH - NO : 9573155645
 
