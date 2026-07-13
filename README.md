@@ -26,7 +26,6 @@
 ganesh-sanapathi-72b04932b
 
 - Email: sanapathiganesh00@gmail.com
-- PH - NO : 9573155645
 
 ⭐ Always Learning • Always Building
 ## 📊 GitHub Stats
