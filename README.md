@@ -1,245 +1,195 @@
-# Hi, I'm Ganesh Sanapathi 👋
+ <div align="center">
 
-🎓 MCA Student @ GITAM University
+# GANESH SANAPATHI
 
-🚀 Founder @ Drakonex
+### Technical Leadership | Software Development | AI & Cybersecurity
 
-💻 Full Stack Developer
+**MCA Student at GITAM University · Founder at Drakonex Technologies**
 
-🤖 AI & Machine Learning Enthusiast
+Building software solutions, exploring AI technologies, and developing technical leadership skills.
 
-🌱 Currently Learning
-- Java
-- Python
-- JavaScript
-- React
-- Node.js
-- AI & Machine Learning
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanapathiganesh00-art)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-sanapathi-72b04932b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanapathiganesh00@gmail.com)
 
-## 📌 Projects
-- 🚀 Drakonex
-- 🌐 Full Stack Web Applications
-- 🤖 AI Projects
-# 🚀 DRAKONEX
-
-## 📖 Overview
-DRAKONEX is a platform that empowers students through AI, innovation, internships, and real-world software projects.
-
-## ✨ Features
-- Student Dashboard
-- AI Integration
-- Internship Portal
-- Project Showcase
-- Modern Responsive UI
-
-## 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
-
-## 🚀 Installation
-
-```bash
-git clone https://github.com/sanapathiganesh00-art/DRAKONEX.git
-```
-
-Open `index.html` in your browser.
-
-## 👨‍💻 Author
-
-Ganesh Sanapathi
-## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/
-ganesh-sanapathi-72b04932b
-
-- Email: sanapathiganesh00@gmail.com
-
-⭐ Always Learning • Always Building
-## 📊 GitHub Stats
-## 📈 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sanapathiganesh00-art&theme=github-dark)
-
-
-# MCA GITAM | Academic Resource Hub
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MCA-GITAM-7C3AED?style=for-the-badge" alt="MCA GITAM"/>
-  <img src="https://img.shields.io/badge/NOTES-PYQs-111827?style=for-the-badge" alt="Notes and PYQs"/>
-  <img src="https://img.shields.io/badge/HTML5-CSS3-JavaScript-blueviolet?style=for-the-badge" alt="Technology stack"/>
-</p>
-
-<p align="center">
-  <strong>A Smarter Way to Access Academic Resources.</strong>
-  <br/>
-  A centralized study platform for MCA students to explore notes, study materials, and previous-year question papers.
-</p>
+</div>
 
 ---
 
-## 01. Project Overview
+## 👨‍💻 About Me
 
-MCA GITAM Academic Resource Hub is a front-end web application developed to simplify academic resource management and examination preparation.
+I'm **Ganesh Sanapathi**, an MCA student at GITAM University with interests spanning software engineering, AI, cybersecurity, and technology leadership.
 
-The platform organizes available study materials into subject-wise sections, enabling students to discover notes, access supported PDF documents, and prepare for sessional examinations through a structured interface.
+As part of my work with **Drakonex Technologies**, my interests include software and product development, project coordination, technical team management, and building practical technology solutions.
 
-## 02. Key Features
+- 🎓 **Education:** MCA — GITAM University
+- 🚀 **Organization:** Drakonex Technologies
+- 💻 **Technical Interests:** Software Engineering and Full-Stack Development
+- 🤖 **AI Interests:** Generative AI, Prompt Engineering and AI-Assisted Development
+- 🔐 **Security Interests:** SOC Analysis, SIEM and Network Security
 
-- **Subject-Wise Library** — Browse available academic resources.
-- **Study Materials** — Access available notes and reference materials.
-- **Previous-Year Questions** — Find available examination papers.
-- **Smart Search** — Search resources using keywords.
-- **PDF Viewer** — Open supported documents within the application.
-- **Quick Navigation** — Access important study sections efficiently.
-- **Random Resource** — Discover a randomly selected resource.
-- **Theme Switching** — Switch between light and dark themes.
-- **Doubt Buddy** — Explore predefined responses to selected study questions.
-- **Responsive Interface** — Adapt the layout to different screen sizes.
+## 🧑‍💼 Leadership & Professional Experience
 
-## 03. Technology Stack
+**Drakonex Technologies**
+- Founder
+- Technical Director
+- Project Manager
+- President
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+Areas of responsibility and professional interest:
+- Technical staff management
+- Product and software development
+- Project scope development
+- Cloud deployment
+- Teamwork and leadership development
+- Organizational development
 
-| Technology | Purpose |
-|---|---|
-| HTML5 | Webpage structure |
-| CSS3 | Styling and responsive layouts |
-| JavaScript | Client-side interactions |
-| Git | Version control |
-| GitHub | Source-code hosting |
+## 🛠️ Technical Skills
 
-## 04. Project Architecture
+### Programming Languages
 
-```text
-MCA-GITAM-ACADEMIC-RESOURCE-HUB/
-│
-├── index.html
-├── style.css
-├── app.js
-├── data.js
-├── README.md
-│
-└── assets/
-    └── Study materials and PDF documents
-```
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- `index.html` — Defines the application structure.
-- `style.css` — Controls the visual presentation and responsive styling.
-- `app.js` — Implements application interactions.
-- `data.js` — Provides resource data.
-- `assets/` — Contains study documents referenced by the application.
+### Web & Full-Stack Development
 
-Keep the actual resource folders and filenames used in your project.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 05. Installation and Setup
+### APIs & Web Services
 
-### Prerequisites
+- REST APIs and API Development
+- API Calling and Integration
+- JSON
+- HTTPS
+- Web Services
 
-- Visual Studio Code
-- A modern web browser
-- Live Server extension
-- Required project files and study resources
+### Artificial Intelligence
 
-### Step 1 — Clone the Repository
+- Artificial Intelligence (AI)
+- Prompt Engineering
+- Claude AI
+- GitHub Models
+- AI-Assisted Programming
+- AI Pair Programming
+- Data Analysis
 
-Replace `YOUR-USERNAME` with your GitHub username.
+### Cybersecurity
 
-```bash
-git clone https://github.com/YOUR-USERNAME/gitam-mca-exams.git
-```
+- Cybersecurity Fundamentals
+- SOC Analysis
+- Security Information and Event Management (SIEM)
+- Network Security
 
-### Step 2 — Open the Project
+### Cloud & Product Development
 
-```bash
-cd gitam-mca-exams
-code .
-```
+- Cloud Deployment
+- Product Development
+- Project Scope Development
+- Startup Development
+- Software Development
 
-### Step 3 — Run the Application
+### Leadership & Soft Skills
 
-Open `index.html` using the Live Server extension in Visual Studio Code.
+- Technical Staff Management
+- Project Management
+- Leadership Development
+- Organizational Development
+- Communication
+- Teamwork
+- Networking
+- Community Outreach
+- Problem Solving
 
-Ensure that `style.css`, `app.js`, `data.js`, and the required asset directories remain in their expected locations.
+### Productivity & Creative Tools
 
-## 06. How to Use
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-1. Open the website in your browser.
-2. Explore the available subject sections.
-3. Select a subject to view its resources.
-4. Search for notes and question papers.
-5. Open supported PDFs through the document viewer.
-6. Navigate to the examination practice section.
-7. Switch between light and dark themes.
-8. Explore Doubt Buddy for supported study questions.
-
-## 07. Doubt Buddy
-
-Doubt Buddy is a lightweight study-assistant interface designed to provide predefined responses to selected educational questions.
-
-The current implementation does not connect to a live AI model or an external AI API. AI-powered assistance can be considered as a future enhancement.
-
-## 08. Project Objectives
-
-- Centralize academic resources in one place.
-- Simplify access to subject-wise materials.
-- Support examination preparation and revision.
-- Apply front-end development concepts to an educational use case.
-- Establish a foundation for future educational technology improvements.
-
-## 09. Future Roadmap
-
-- [ ] AI-powered academic assistance
-- [ ] Unit-wise and topic-wise filtering
-- [ ] Improved accessibility and keyboard navigation
-- [ ] Personalized bookmarks and user accounts
-- [ ] Automated resource-link validation
-- [ ] Cloud-based resource management
-- [ ] Enhanced mobile experience
-- [ ] Public live demo and deployment documentation
-
-*These items are planned enhancements, not completed features.*
-
-## 10. Project Status
-
-**Project Type:** Front-End Web Application
-
-**Primary Focus:** Academic resource organization and examination preparation.
-
-The current implementation focuses on client-side functionality and access to included study resources. A backend, authentication, cloud storage, and live AI integration would require additional development.
-
-## 11. Developer
-
-**Ganesh Sanapathi**
-
-*MCA Student | Aspiring Software Developer*
-
-**Areas of Interest**
-- Web Development
-- JavaScript
-- Artificial Intelligence
-- Educational Technology
-
-GitHub: https://github.com/
-
-LinkedIn: https://www.linkedin.com/
-
-Replace these links with your actual profiles.
-
-## 12. License and Attribution
-
-No license has been specified for this project. Review the ownership and redistribution permissions for the source code and included academic materials before publishing or distributing them.
-
-Add an appropriate `LICENSE` file if you choose to release the project under an open-source license.
+- Video Editing
 
 ---
 
-<p align="center">
-  <strong>LEARN · PRACTISE · REVISE · SUCCEED</strong>
-  <br/><br/>
-  MCA GITAM | Academic Resource Hub
-</p>
+## 🚀 Featured Projects
+
+### 1. DRAKONEX
+
+A technology initiative focused on student opportunities, innovation, internships, and software projects.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[View DRAKONEX on GitHub →](https://github.com/sanapathiganesh00-art/DRAKONEX)
+
+### 2. SentryWall — Centralized Security & Policy Monitoring System
+
+A cybersecurity-focused project associated with security monitoring and policy management.
+
+**Areas:** Cybersecurity, Network Security, Software Development and Security Monitoring.
+
+### 3. MCA GITAM — Academic Resource Hub
+
+A front-end academic resource platform designed to help MCA students access notes, study materials, and previous-year question papers.
+
+**Features**
+- Subject-wise resource library
+- Search and filtering
+- PDF viewer
+- Favourite resources
+- Light and dark themes
+- Doubt Buddy with predefined responses
+
+**Technologies:** HTML5, CSS3, JavaScript
+
+---
+
+## 📜 Training & Certifications
+
+- **Long-Term Internship:** Full-Stack Development (Python)
+- **Short-Term Training:** SOC Analyst
+- **Workshop:** AI Tools & Claude
+- **Certificate:** Campus Ambassador
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanapathiganesh00-art&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanapathiganesh00-art&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sanapathiganesh00-art&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Developing software and web applications
+- Exploring AI tools and AI-assisted development
+- Learning more about APIs and cloud deployment
+- Strengthening cybersecurity and SOC fundamentals
+- Building practical projects and improving technical documentation
+
+---
+
+## 🤝 Connect With Me
+
+- **GitHub:** [sanapathiganesh00-art](https://github.com/sanapathiganesh00-art)
+- **LinkedIn:** [Ganesh Sanapathi](https://www.linkedin.com/in/ganesh-sanapathi-72b04932b/)
+- **Email:** [sanapathiganesh00@gmail.com](mailto:sanapathiganesh00@gmail.com)
+
+<div align="center">
+
+**LEAD · BUILD · INNOVATE · SECURE 🚀**
+
+</div>
